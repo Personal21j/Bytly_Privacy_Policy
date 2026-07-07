@@ -1,8 +1,7 @@
 ---
+layout: default
 title: Bytly Privacy Policy
 ---
-
-# Bytly Privacy Policy
 
 *Effective Date: July 6, 2026*
 
