@@ -93,5 +93,3 @@ Our services are not intended for children under the age of 13. We do not knowin
 ## 8. Contact Us
 
 If you have any questions, comments, or concerns about this Privacy Policy, or if you wish to exercise your rights, please contact us at: [bytly.team@gmail.com](mailto:bytly.team@gmail.com).
-</content>
-</invoke>
